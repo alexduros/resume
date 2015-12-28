@@ -1,0 +1,128 @@
+{
+  "name": "Alexandre Duros",
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Software Developer",
+    "class": "Engineer"
+  },
+  "disposition": {
+    "travel": 80,
+    "commitment": [
+      "full-time",
+      "contract"
+    ],
+    "remote": true,
+    "relocation": {
+      "willing": true,
+      "destinations": [
+        "Bretagne",
+        "San Fransisco"
+      ]
+    }
+  },
+  "contact": {
+    "email": "alexandre@duros.fr",
+    "phone": "+33(0)650849981",
+    "website": "http://www.duros.fr"
+  },
+  "location": {
+    "address": "44 rue Victor Hugo",
+    "code": "92800",
+    "city": "Puteaux",
+    "country": "France",
+    "region": "Ile-De-France"
+  },
+  "employment": {
+    "summary": "After a first intern in an IT service company, I was hired by CANAL+, the french pay-tv channel leader. I work since there in an R&D team in charge of think about new ways to use TV services, and to prototype it.",
+    "history": [
+      {
+        "employer": "Klee Group",
+        "position": "Intern in Java Development",
+        "url": "http://www.kleegroup.com/",
+        "start": "2010-08-30",
+        "end": "2011-02-07",
+        "summary": "I was hired as a junior project manager but I quickly added more technical tasks to my skills to help solve projects issues. I worked on several project, usually for french government departments or public organizations, using Java/J2EE technologies, with a Java Framework developped by the company.",
+        "location": "Le Plessis-Robinson (near Paris)"
+      },
+      {
+        "employer": "CANAL+",
+        "position": "Research and development Intern",
+        "url": "http://www.canalplusgroupe.com/",
+        "start": "2011-02-14",
+        "end": "2011-08-30",
+        "summary": "I worked in a 5-person team composed by a mix of skills (designer, developer, etc.) allowing us to fastly develop prototypes of new ways to watch TV",
+        "highlights": [
+          "An iPad application to replace the paper edition of the monthly customers magazine",
+          "A set-top-box interactive application, developped in HTML and javascript, to the located weather informations, for the french TV channel 'La chaîne Météo'",
+          "A Facebook integration on set-top-box to share favourites programs",
+          "An iPad, web, and set-top-box application to enhance soccer games experience",
+          "A tool to survey CANAL+ activity on social networks"
+        ],
+        "location": "Issy-Les-Moulineaux (near Paris)"
+      },
+      {
+        "employer": "CANAL+",
+        "position": "Software Developer",
+        "url": "http://www.canalplusgroupe.com/",
+        "start": "2012-04-17",
+        "summary": "I work in a 5-person team composed by a mix of skills (designer, developer, etc.) allowing us to fastly develop prototypes of new ways to watch TV",
+        "highlights": [
+          "Rework of our set-top-box stack to use web technologies inside our set-top-boxes",
+          "An REST API, developped in Python, in a embedded real-time environment on our STB."
+        ],
+        "location": "Issy-Les-Moulineaux (near Paris)"
+      }
+    ]
+  },
+  "skills": {
+    "lists": [
+      {
+        "name": "Web Programming",
+        "level": "senior developer",
+        "years": 5
+      }
+    ]
+  },
+  "service": {
+    "summary": "Volunteer as computer teacher in senegalese school"
+  },
+  "education": {
+    "summary": "After my bachelor, I studied two years in **classes prépartoires** before graduate Telecom ParisTech, the first french school in telecommunications and informatic, and one of top-ten french engineering school.",
+    "level": "degree",
+    "degree": "Engineer diploma from Telecom ParisTech",
+    "history": [
+      {
+        "institution": "Lycée Montesquieu",
+        "area": "Mathematics",
+        "start": "2006-09",
+        "end": "2008-06",
+        "grade": "major"
+      },
+      {
+        "institution": "Telecom ParisTech",
+        "area": "Engineering",
+        "start": "2008-09",
+        "end": "2012-02"
+      }
+    ]
+  },
+  "social": [
+    {
+      "network": "Github",
+      "user": "alexduros",
+      "url": "https://github.com/alexduros",
+      "label": "Github account"
+    }
+  ],
+  "extracurricular": [
+    {
+      "title": "Official basket-ball referee",
+      "activity": "Basket-Ball",
+      "location": "Area of Paris",
+      "start": "2015-09"
+    }
+  ]
+}
